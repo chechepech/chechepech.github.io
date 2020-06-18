@@ -1,0 +1,1 @@
+var canva = document.getElementById('circle');var context = canva.getContext('2d');var centerX = canva.width / 2;var centerY = canva.height / 2;var radius = 100;context.beginPath();context.arc(centerX, centerY, radius, 0, 2 * Math.PI, false);context.lineWidth = 50;context.strokeStyle = '#653545';context.stroke();

@@ -1,0 +1,19 @@
+/* TEAM */
+web developer & designer: Cheche Pech
+contact: bboy_rys[at]yahoo.com.mx
+facebook: chechepech
+linkedin: chechepech
+github: chechepech
+youtube: chechepech
+twitter: @chechepech
+instagram: cheche_pech
+Location: Yucatan, Mexico
+
+/* THANKS */
+dribbble.com
+
+/* SITE */
+Last update: 2020/06/18
+Standards: HTML5, CSS3, JavaScript
+Components: Reset CSS, Modular Scalable
+Software: Sublime Text 3
