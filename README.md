@@ -1,16 +1,16 @@
-## Cheche Pech - A awesome Portfolio website
+## Cheche Pech - A awesome portfolio website
 
 ### HTML5 - CSS3 - JavaScript
 
 #### Check it out!
 
-[Cheche Pech - A awesome website Portfolio](https://chechepech.gq).
+[Cheche Pech - A awesome portfolio website](https://chechepech.github.io).
 
 > :smile:
 
- > Link: https://chechepech.gq
+ > Link: https://chechepech.github.io
 
-![Image of Cheche Pech - A awesome website Portfolio](website.png)
+![Image of Cheche Pech - A awesome portfolio website](images/Cheche_Pech_Web_Developer_Designer_Portfolio.png)
 
 :beers: [linkedin](https://www.linkedin.com/in/chechepech)
 :beers: [facebook](https://www.facebook/chechepech)
